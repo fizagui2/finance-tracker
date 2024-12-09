@@ -1,1 +1,5 @@
-
+firebase Folder
+	•	index.js File:
+	•	Purpose: Initializes Firebase and configures the web app’s Firebase setup.
+	•	Usage: Provides the necessary Firebase configurations to integrate features 
+           like authentication, database, and other Firebase services.
