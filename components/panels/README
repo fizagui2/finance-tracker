@@ -1,1 +1,12 @@
+The panels folder contains components that provide core functionality for managing and 
+displaying financial data within the personal finance tracker application.
 
+Features:
+	1.	Add Expense
+	•	Allows users to input and save new expenses.
+	2.	Add Additional Income
+	•	Enables users to add extra income entries.
+	3.	Expense Data Panel
+	•	Displays a detailed panel showcasing data on expenses, including categories and amounts.
+
+These components are designed to enhance the application’s interactivity, providing an intuitive and user-friendly interface for managing finances.
