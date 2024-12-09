@@ -1,1 +1,12 @@
+The components folder contains reusable React components that form the building blocks of the personal finance tracker application. 
+These components manage essential parts of the application’s user interface and functionality.
 
+Contents:
+	1.	Sign-In Page Logic
+	•	Handles user authentication and sign-in functionality.
+	2.	Navigation Header
+	•	Provides a consistent navigation experience across the application.
+	3.	Category List
+	•	Manages and displays the list of categories, allowing users to view and interact with expense categories efficiently.
+
+Each component is designed to be modular, reusable, and maintainable to ensure clean and efficient c
