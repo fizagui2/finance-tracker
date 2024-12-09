@@ -1,1 +1,6 @@
+The lib folder contains utility files and helper functions used throughout the personal finance tracker application.
 
+utility File
+	•	Purpose: Formats money details into USD currency for consistency and readability across the application.
+	•	Usage: This utility ensures that all monetary values are displayed in a standardized format, enhancing the 
+           user experience and professionalism of the app.
