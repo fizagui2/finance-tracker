@@ -1,1 +1,4 @@
-
+store Folder
+	•	Purpose: Contains functions that distribute context throughout the project.
+	•	Usage: Functions are exported from this folder to manage and share application 
+           state across various components efficiently.
