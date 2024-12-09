@@ -1,1 +1,7 @@
+This folder contains the image used for the sign-in page of the personal finance tracker application. The image is referenced to 
+provide a visually appealing interface for user authentication.
 
+Usage:
+	•	The image is loaded directly from the public/images directory and displayed on the sign-in page.
+
+This ensures proper static asset handling and deployment consistency across the application.
