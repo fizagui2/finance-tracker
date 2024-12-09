@@ -1,1 +1,12 @@
+The app folder serves as the foundation of the personal finance tracker application, 
+managing global styles, application layout, and core logic.
 
+Contents:
+	1.	global.css
+	•	Purpose: Defines shared global themes and styles for consistent UI design across the application.
+	2.	layout.js
+	•	Purpose: Provides a structured layout for the entire application, ensuring consistent rendering of common UI components.
+	3.	page.js
+	•	Purpose: Contains the core logic of the application, handling key functionalities and routing logic.
+
+This folder ensures the application’s structure, styling, and functionality are well-organized and scalable.
